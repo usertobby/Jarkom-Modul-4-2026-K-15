@@ -633,6 +633,12 @@ Setiap host diberi alamat IP, netmask, dan gateway yang berada di subnetnya. Con
 
 Tabel berikut berisi beberapa contoh konfigurasi host; daftar lengkap ada di folder `routing/gns3/node/`.
 
+### Pohon CIDR
+
+Diagram berikut merangkum hubungan subnet A1–A25 dengan kelompok penggabungan tingkat B sampai F.
+
+![Pohon CIDR](/assets/gns3/pohon-cidr.png)
+
 ### Tabel IP Address Tiap Node / Client
 | Cabang | Node / Client | IP Address | Subnet Mask | Default Gateway | Subnet ID |
 |---|---|---|---|---|---|
